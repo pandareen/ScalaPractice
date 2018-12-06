@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ScalaPractice.iml" filepath="$PROJECT_DIR$/ScalaPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ScalaPractice.iml" filepath="$PROJECT_DIR$/.idea/ScalaPractice.iml" />
     </modules>
   </component>
 </project>
