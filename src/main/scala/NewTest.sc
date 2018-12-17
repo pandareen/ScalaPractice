@@ -1,1 +1,1 @@
-type R = Double
+( a + b ) ^? ( c ?^ d ) less a ==> ()
